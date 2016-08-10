@@ -1,0 +1,32 @@
+---
+layout: default
+title: À Propos
+permalink: /a-propos/
+---
+
+<div class="row">
+
+  <div class="col-md-8 nopadding blog-main">
+    <h1 class="page-header">À Propos</h1>
+    {% capture include_a_propos %}{% include a-propos.md %}{% endcapture %}
+    {{ include_a_propos | markdownify }}
+  </div>
+
+  <div class="col-md-4 blog-sidebar">
+    <div class="sidebar-module sidebar-module-inset">
+      <h4 class="sidebar-title"><i class="fa fa-info-circle"></i> &nbsp; Alsace Digitale</h4>
+      <p>Alsace Digitale est une association ayant pour ambition d’animer et de promouvoir la révolution numérique dans la région Alsace. Soutenue par l'Eurométropole de Strasbourg, elle a ouvert en 2012 <a href="http://laplagedigitale.eu">le premier espace de coworking de Strasbourg</a>.<p>
+      <p>Son but est clairement défini : développer le tissu économique, créer les conditions propices à l’émergence de nouvelles entreprises, celles créées aujourd’hui ayant vocation à être les histoires à succès de demain.</p>
+      <div class="row">
+        <div class="col-xs-12 nopadding">
+          <a href="http://alsacedigitale.org/" target="_blank" class="btn btn-default sidebar-button">Découvrir l'association</a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 nopadding text-center">
+        <div class="fb-page" data-href="https://www.facebook.com/HackSXB/" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/HackSXB/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HackSXB/">Hack SXB</a></blockquote></div>
+    </div>
+   </div>
+  </div>
+</div>

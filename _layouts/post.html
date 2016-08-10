@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{% if page.categories[0] == "events" %}
+  {% assign post_meta = page.event_info %}
+  {% assign share_text = "Partager l'événement" %}
+{% elsif page.categories[0] == "ressources" %}
+  {% assign post_meta = "Proposée par " | append: page.ressource_author %}  
+  {% assign share_text = "Partager la ressource" %}
+{% else %}
+  {% assign post_meta =  page.date | date: "%b %-d, %Y" %}    
+  {% assign share_text = "Partager" %}
+{% endif %}
+
+<article class="blog-post">
+  <h2 class="blog-post-title">{{ page.title }}</h2>
+  <p class="blog-post-meta">{{ post_meta }}</p>
+  {% if page.photo %}
+  <img src="{{ site.url }}/assets/img/{{ page.photo }}" alt="{{ page.title }}" style="max-width: 100%; margin: 10px auto;">
+  {% endif %}
+  <p>
+    {{ content }}
+  </p>
+  {% if page.categories[0] == "events" and page.event_registration %}
+  <p style="margin-top: 15px;"><a class="btn btn-primary" target="_blank" href="{{ page.event_registration }}">J'y vais</a>
+  {% elsif page.categories[0] == "ressources" and page.ressource_url %}
+  <p style="margin-top: 15px;"><a class="btn btn-primary" target="_blank" href="{{ page.ressource_url }}">Accéder à la ressource</a>
+  {% endif %}
+
+  {% assign tagStr = '' %}
+  {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+  {% if page.shortUrl != null %}
+    {% assign url = page.shortUrl %}
+    {% for tag in page.tags %}
+        {% capture tagStr %}{{ tagStr }},{{ tag }}{% endcapture %}
+    {% endfor %}
+  {% endif %}
+  <div class="blog-post-share">
+    <h4>{{ share_text }}</h4>
+    <div>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ url }}&amp;via={{ site.twitter_username }}&amp;hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter"><i class="fa fa-twitter-square"></i></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?t={{ page.title | uri_escape }}&amp;u={{ url }}" target="_blank" title="Share this post on Facebook"><i class="fa fa-facebook-square"></i></a>
+      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus"><i class="fa fa-google-plus-square"></i></a>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&amp;title={{ page.title | uri_escape }}&amp;url={{ url }}&amp;source=http%3a%2f%2fzhangwenli.com" target="_blank" title="Share this post on LinkedIn"><i class="fa fa-linkedin-square"></i></a>
+    </div>
+  </div>
+</article>

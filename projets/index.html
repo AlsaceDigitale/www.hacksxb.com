@@ -1,0 +1,34 @@
+---
+layout: default
+title: Projets
+---
+
+<div class="row">
+  <div class="col-md-8 nopadding blog-main">
+    <h1 class="page-header">Projets</h1>
+
+    {% for post in site.categories.projets %}
+    <div class="blog-post">
+      <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p>
+        {{ post.excerpt }}
+      </p>
+      <a class="btn btn-primary blog-btn" href="{{ post.url | prepend: site.url }}">Voir le projet</a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="col-md-4 blog-sidebar">
+    <div class="sidebar-module sidebar-module-inset">
+      <h4 class="sidebar-title"><i class="fa fa-info-circle"></i> &nbsp; À propos des projets</h4>
+      <p>Voici quelques uns des projets produits lors de rencontres HackSXB.</p>
+      <p>Certains ont été réalisés dans le cadre d'événements, comme lors du festival EdgeFest organisé par Alsace Digitale.</p>
+      <p>Vous avez réalisé quelque chose au dernier HackSXB ? N'hésitez pas à contribuer !</p>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 nopadding text-center">
+        <div class="fb-page" data-href="https://www.facebook.com/HackSXB/" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/HackSXB/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HackSXB/">Hack SXB</a></blockquote></div>
+      </div>
+    </div>
+  </div>
+</div>

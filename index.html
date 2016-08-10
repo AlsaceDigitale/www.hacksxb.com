@@ -2,22 +2,38 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="row">
+  <div class="col-md-8 blog-main nopadding">
+    <h1 class="page-header"><strong>HackSXB</strong>, la communauté de développeurs et makers à Strasbourg portée par <a href="http://alsacedigitale.org" target="_blank">Alsace Digitale</a></h1> 
+    <p><strong>Le HackSXB est une communauté</strong> d'étudiants, d'entrepreneurs et d'actifs qui partagent l'envie de créer. Organisé les derniers vendredis de chaque mois, le HackSXB est une soirée dédiée à la programmation et à la bidouille. Sur des sujets libres et parfois plus thématiques, chacun vient avec son projet ou participe à un projet commun.</p>
+    <p>Du <strong>développement</strong> de jeux vidéo à la soudure de composants <strong>électronique</strong>, on y retrouve <strong>des passionnés</strong> avec des compétences variées.</p>
+    <div class="blog-photogrid">
+      <img src="{{ site.url }}/assets/img/hacksxb1.jpg" alt="photo hacksxb">
+      <img src="{{ site.url }}/assets/img/hacksxb2.jpg" alt="photo hacksxb">
+      <img src="{{ site.url }}/assets/img/hacksxb3.jpg" alt="photo hacksxb">
+      <img src="{{ site.url }}/assets/img/hacksxb4.jpg" alt="photo hacksxb">
+    </div>
+  </div>
+  <div class="col-md-4 blog-sidebar">
+    <div class="sidebar-module sidebar-module-inset">
+      <h4 class="sidebar-calendar-title"><i class="fa fa-calendar"></i> &nbsp;Prochain événement</h4>
+      {% for post in site.categories.events limit:1 %}
+      <p class="sidebar-calendar-event"><a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}"><strong>{{ post.title }}</strong></a></p>
+      <p class="sidebar-calendar-info"><i class="fa fa-clock-o"> &nbsp;</i>{{ post.event_info }}</p>
+      <div class="row">
+        <div class="col-xs-6 nopadding">
+          <a href="{{ post.url | prepend: site.url }}" class="btn btn-default sidebar-calendar-button-left">+ d'infos</a>
+        </div>
+        <div class="col-xs-6 nopadding">
+          <a href="{{ post.event_registration }}" target="_blank" class="btn btn-default sidebar-calendar-button-right">J'y vais</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-xs-12 nopadding text-center">
+        <div class="fb-page" data-href="https://www.facebook.com/HackSXB/" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/HackSXB/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HackSXB/">Hack SXB</a></blockquote></div>
+      </div>
+   </div>
+  </div>
 </div>

@@ -1,0 +1,49 @@
+---
+layout: default
+title: Events
+---
+
+<div class="row">
+  <div class="col-md-8 nopadding blog-main">
+    <h1 class="page-header">Événements</h1>
+
+    {% for post in site.categories.events %}
+    <div class="blog-post">
+      <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}"><i class="fa fa-calendar"></i></a> &nbsp;<a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p class="blog-post-meta">{{ post.event_info }}</p>
+      <p>
+        {{ post.excerpt }}
+      </p>
+      <a class="btn btn-primary blog-btn" href="{{ post.url | prepend: site.url }}">Détails de l'événement</a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="col-md-4 blog-sidebar">
+    <div class="sidebar-module sidebar-module-inset">
+      <h4 class="sidebar-title"><i class="fa fa-info-circle"></i> &nbsp; Types de rencontres</h4>
+      <p>Les HackSXB sont des réunions mensuelles, organisées les <strong>derniers vendredis du mois</strong>.</p>
+      <p>Dans le cadre de l'organisation d'autres événements par Alsace Digitale, il arrive que la communauté se réunisse plus régulièrement.</p>
+      <div class="row">
+        <div class="col-xs-12 nopadding">
+          <a href="{{ site.url }}/events/deroulement/" class="btn btn-default sidebar-button">Déroulement d'un HackSXB</a>
+        </div>
+      </div>
+    </div>
+    <div class="sidebar-module sidebar-module-inset">
+      <h4 class="sidebar-title"><i class="fa fa-info-circle"></i> &nbsp; Les règles</h4>
+      <p>Afin que les rencontres se passent au mieux, des règles de participation ont été définis.</p>
+      <p>Découvre si le HackSXB est fait pour toi !</p>
+      <div class="row">
+        <div class="col-xs-12 nopadding">
+          <a href="{{ site.url }}/events/regles/" class="btn btn-default sidebar-button">Règles de participation</a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 nopadding text-center">
+        <div class="fb-page" data-href="https://www.facebook.com/HackSXB/" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/HackSXB/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HackSXB/">Hack SXB</a></blockquote></div>
+      </div>
+   </div>
+  </div>
+</div>
