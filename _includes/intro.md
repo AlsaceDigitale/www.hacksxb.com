@@ -1,0 +1,3 @@
+**Le HackSXB est une communauté** d'étudiants et d'actifs qui partagent l'envie de créer. Organisé les derniers vendredis de chaque mois, le HackSXB est une soirée dédiée à la programmation et à la bidouille. Sur des sujets libres et parfois plus thématiques, chacun vient avec son projet ou participe à un projet commun.
+    
+Du **développement** de jeux vidéo à la soudure de composants **électroniques**, on y retrouve **des passionnés** avec des compétences variées.

@@ -5,8 +5,8 @@ layout: default
 <div class="row">
   <div class="col-md-8 blog-main nopadding">
     <h1 class="page-header"><strong>HackSXB</strong>, la communauté de développeurs et makers à Strasbourg portée par <a href="http://alsacedigitale.org" target="_blank">Alsace Digitale</a></h1> 
-    <p><strong>Le HackSXB est une communauté</strong> d'étudiants, d'entrepreneurs et d'actifs qui partagent l'envie de créer. Organisé les derniers vendredis de chaque mois, le HackSXB est une soirée dédiée à la programmation et à la bidouille. Sur des sujets libres et parfois plus thématiques, chacun vient avec son projet ou participe à un projet commun.</p>
-    <p>Du <strong>développement</strong> de jeux vidéo à la soudure de composants <strong>électronique</strong>, on y retrouve <strong>des passionnés</strong> avec des compétences variées.</p>
+    {% capture include_intro %}{% include intro.md %}{% endcapture %}
+    {{ include_intro | markdownify }}
     <div class="blog-photogrid">
       <img src="{{ site.url }}/assets/img/hacksxb1.jpg" alt="photo hacksxb">
       <img src="{{ site.url }}/assets/img/hacksxb2.jpg" alt="photo hacksxb">

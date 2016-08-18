@@ -1,0 +1,3 @@
+Alsace Digitale est une association ayant pour ambition d’animer et de promouvoir la révolution numérique dans la région Alsace. Soutenue par l'Eurométropole de Strasbourg, elle a ouvert en 2012 [le premier espace de coworking de Strasbourg](http://laplagedigitale.eu).
+
+Son but est clairement défini : développer le tissu économique, créer les conditions propices à l’émergence de nouvelles entreprises, celles créées aujourd’hui ayant vocation à être les histoires à succès de demain.
