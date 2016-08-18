@@ -9,6 +9,6 @@ published: true
 ---
 Venez discuter du futur de la communauté HackSXB !
 
-Rendez-vous le 26 juin à 19h dans l'espace de coworking La plage Rivétoile.
+Rendez-vous le 26 août à 19h dans l'espace de coworking La plage Rivétoile.
 
 Collation offerte par Alsace Digitale sur pré-inscription.
