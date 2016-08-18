@@ -350,11 +350,20 @@ h1.page-header {
 /*
  * Footer
  */
+.blog-sticky-logo {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+}
 .blog-copyright {
 	font-size: 16px;
 	margin-bottom: 3px;
 }
-
+@media (max-width: 670px) {
+	.blog-sticky-logo {
+		display: none;
+	}
+}
 /*
  * Code highlighter
  */
