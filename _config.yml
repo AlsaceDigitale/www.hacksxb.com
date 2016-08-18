@@ -20,9 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # dev
-#url: "http://yesdev.it/hacksxb" # test
-#url: "http://hacksxb.com" # production
+#url: "http://localhost:4000" # dev
+url: "http://hacksxb.com" # production
 twitter_username: hacksxb
 github_username:  alsacedigitale
 
