@@ -16,12 +16,12 @@ Le but est de produire quelque chose de fonctionnel à la fin de la soirée, de 
 Une petite présentation à l’ensemble des participants est également appréciée !
 Ramenez votre projet en cours, vos problèmes du moment, vos nouveaux gadgets !
 
-Les règles sont simples : partager avec les autres, montrer ce que vous faites et faire preuve d'ouverture d'esprit !
+Les [règles](http://www.hacksxb.com/events/regles/) sont simples : partager avec les autres, montrer ce que vous faites et faire preuve d'ouverture d'esprit !
 
 Cette édition un peu spéciale débutera par une discussion autour des prochaines actions du HackSXB (projets, événements...) et on en profitera pour vous présenter le nouveau site de la communauté.
 
 Rendez-vous le 26 août à 19h dans l'espace de coworking La plage Rivétoile (15 avenue du Rhin).
 
-Collation offerte par Alsace Digitale sur ***[pré-inscription](https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-42-hacking-hacksxb)***.
+Collation offerte par Alsace Digitale sur **[pré-inscription](https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-42-hacking-hacksxb)**.
 
 Indiquez votre présence à vos amis grâce l'[événement Facebook](https://www.facebook.com/events/289244131434860/)
