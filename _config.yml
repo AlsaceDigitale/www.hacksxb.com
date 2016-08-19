@@ -27,3 +27,6 @@ github_username:  alsacedigitale
 markdown: kramdown
 
 permalink: /:categories/:title.html
+
+gems:
+  - jekyll-sitemap
