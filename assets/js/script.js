@@ -13,7 +13,7 @@ $(function() {
 	});
 
 	setAspectRatio();
-	checkStickyLogo();
+	setTimeout(checkStickyLogo, 500);
 });
 
 function setAspectRatio() {
