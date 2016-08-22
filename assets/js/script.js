@@ -1,7 +1,7 @@
-var document_height = $(document).height();
-var window_height = $(window).height();
-
 $(function() {
+	var document_height = $(document).height();
+	var window_height = $(window).height();
+
 	$(window).resize(function() {
 		setAspectRatio();
 		document_height = $(document).height();
