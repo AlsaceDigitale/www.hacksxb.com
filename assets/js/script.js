@@ -1,11 +1,6 @@
 $(function() {
-	var document_height = $(document).height();
-	var window_height = $(window).height();
-
 	$(window).resize(function() {
 		setAspectRatio();
-		document_height = $(document).height();
-		window_height = $(window).height();
 	});
 
 	$(window).scroll(function() {
@@ -23,7 +18,7 @@ function setAspectRatio() {
 }
 
 function checkStickyLogo() {
-	if ( document_height <= (window_height + $(window).scrollTop()) + 90) {
+	if ( $(document).height() <= ($(window).height() + $(window).scrollTop()) + 90) {
         $(".blog-sticky-logo").addClass("isoverfooter");
     }
     else {
