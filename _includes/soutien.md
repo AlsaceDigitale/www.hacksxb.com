@@ -2,7 +2,7 @@ Vous avez envie de **contribuer au futur de la communauté** ? Voilà 4 moyens d
 
 ## Adhérez à Alsace Digitale
 
-Montrez votre soutien vis à vis des initiatives d'[Alsace Digitale](http://alsacedigitale.org/) en adhérent à l'association. C'est seulement 5€/an !
+Montrez votre soutien vis-à-vis des initiatives d'[Alsace Digitale](http://alsacedigitale.org/) en adhérant à l'association. C'est seulement 5€/an !
 
 <a href="http://inscription.alsacedigitale.org" target="_blank" class="btn btn-primary">Adhérer à Alsace Digitale</a>
 
