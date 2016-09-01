@@ -60,7 +60,7 @@ h1.page-header {
 .blog-nav {
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 50px;
+	margin-left: 40px;
 }
 
 /* Nav links */
@@ -102,6 +102,7 @@ h1.page-header {
 .blog-nav-cta {
 	float: right;
 	margin-top: 20px;
+	margin-left: 10px;
 	border: 2px solid #eee;
 	padding: 10px;
 	font-size: 16px;
@@ -212,6 +213,11 @@ h1.page-header {
   font-size: 18px;
   line-height: 1.5;
   padding-right: 15px!important;
+  margin-bottom: 40px;
+}
+
+.blog-main h2 {
+  margin-top: 40px;
 }
 
 /* Sidebar modules for boxing content */
@@ -296,6 +302,13 @@ h1.page-header {
 	img {
 		width: 48%;
 		padding: 8px 1%;
+	}
+}
+
+.blog-photogrid-sidebar {
+	img {
+		width: 100%;
+		margin-bottom: 20px;
 	}
 }
 
