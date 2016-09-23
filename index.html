@@ -17,8 +17,8 @@ description: "Le HackSXB est une communauté particulièrement active qui mobili
     </div>
   </div>
   <div class="col-md-4 blog-sidebar">
-    <div class="sidebar-module sidebar-module-inset">
-      <h4 class="sidebar-calendar-title"><i class="fa fa-calendar"></i> &nbsp;Prochain événement</h4>
+    <div class="sidebar-module sidebar-module-inset" style="padding-bottom: 0;">
+      <h4 class="sidebar-calendar-title"><i class="fa fa-calendar"></i> &nbsp;Prochains événements</h4>
       {% for post in site.categories.events limit:2 %}
       <p class="sidebar-calendar-event"><a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}"><strong>{{ post.title }}</strong></a></p>
       <p class="sidebar-calendar-info"><i class="fa fa-clock-o"> &nbsp;</i>{{ post.event_info }}</p>
