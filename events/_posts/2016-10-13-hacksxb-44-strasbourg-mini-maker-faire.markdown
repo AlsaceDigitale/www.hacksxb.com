@@ -9,6 +9,8 @@ event_registration: 'https://www.helloasso.com/associations/alsace-digitale/even
 ---
 AV Lab est, pour la première année, en charge de l’organisation de la [Strasbourg Mini Maker Faire](http://makerfairestrasbourg.com), festival qui se déroulera du vendredi 16 au dimanche 18 décembre 2016 au Shadok et sur la presqu’île Malraux. La communauté HackSXB a été conviée à participer à l'événement, et nous avons besoin de vos idées et de votre enthousiasme pour imaginer le stand que l'on tiendra à la Mini Maker Faire Strasbourg.
 
+Noé Milesi, chargé de communication chez AV Lab, interviendra en début de soirée pour parler de la Mini Maker Faire.
+
 “Talk is cheap, show me the code, the PCB, whatever”.
 
 Le but est de produire quelque chose de fonctionnel à la fin de la soirée, de faire avancer un projet commun ou votre projet personnel. Une petite présentation à l’ensemble des participants est également appréciée ! Ramenez votre projet en cours, vos problèmes du moment, vos nouveaux gadgets !
