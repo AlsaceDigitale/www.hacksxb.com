@@ -4,7 +4,7 @@ title: 'HackSXB #45: Winter is coming!'
 date: '2016-11-03 13:59:48 +0200'
 photo: event-hacksxb45.jpg
 event_date: '2016-11-25 19:00:00 +0200'
-event_info: Le vendredi 25 octobre à 19h à Epitech Strasbourg
+event_info: Le vendredi 25 novembre à 19h à Epitech Strasbourg
 event_registration: 'https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-45-winter-is-coming'
 ---
 Cette 45ème édition du HackSXB est organisée dans les locaux d'Epitech Strasbourg (plus d'infos à venir).
