@@ -7,7 +7,7 @@ event_date: '2016-11-25 19:00:00 +0200'
 event_info: Le vendredi 25 novembre à 19h à Epitech Strasbourg
 event_registration: 'https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-45-winter-is-coming'
 ---
-Cette 45ème édition du HackSXB est organisée dans les locaux d'Epitech Strasbourg (plus d'infos à venir).
+Cette 45ème édition du HackSXB est organisée dans les locaux d'Epitech Strasbourg. En première partie de soirée, le Dr Nicolas Chevillon, ingénieur de recherche au CNRS, nous parlera des FPGA et de leur utilisation dans son projet actuel, un appareil d'imagerie médicale pour le petit animal.
 
 “Talk is cheap, show me the code, the PCB, whatever”.
 
