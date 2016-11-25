@@ -17,6 +17,6 @@ Les règles de La communauté HackSXB sont simples : partager avec les autres, m
 
 Rendez-vous le 25 novembre à 19h à l'école Epitech Strasbourg, au 4 rue du Dôme.
 
-Collation offerte par Alsace Digitale
+Collation offerte par le BDE Epitech Strasbourg
 
 Indiquez votre présence à vos amis grâce l'[événement Facebook](https://www.facebook.com/events/1012888402172763/)
