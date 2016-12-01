@@ -8,6 +8,7 @@ event_info: Le vendredi 16 décembre à 19h à La Plage Rivétoile
 event_registration: 'https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-46-bredele-party-presentation-global-game-jam'
 ---
 Pour cette 46ème édition, on hacke la règle du dernier vendredi du mois pour qu'elle ne tombe pas pendant les fêtes !
+
 En première partie de soirée, Timothée Fermeaux du Game Dev Group (l'association de développement de jeux vidéo d'Epitech)  présentera rapidement la Global Game Jam qui aura lieu en janvier 2017, puis Gilles Noepel d'Almédia témoignera de ses participations à ces hackathons dédiés aux jeux vidéo !
 
 Chacun pourra également venir avec ses propres projets pour les soumettre à la communauté.
