@@ -1,14 +1,13 @@
 ---
 layout: post
-title: 'HackSXB #47'
+title: 'HackSXB #47 : Hack et gaming chez Ludus Académie'
 date: '2017-01-09 10:44:48 +0200'
 event_date: '2017-12-16 19:00:00 +0200'
-event_info: Le vendredi 27 janvier à 19h (lieu annoncé prochainement)
+photo: event-hacksxb47.jpg
+event_info: Le vendredi 27 janvier à 19h chez Ludus Académie
 event_registration: 'https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-47'
 ---
-Pour cette 47ème édition, on invite Théo Meyer qui nous présentera en début de soirée sa [console de jeux uGEMS](http://www.u-gems.com/) ! 
-
-Le lieu de ce HackSXB sera annoncé prochainement.
+Pour cette 47ème édition, on invite Théo Meyer qui nous présentera en début de soirée sa [console de jeux uGEMS](http://www.u-gems.com/). Le lieu de ce HackSXB est un peu particulier puisqu'il s'agit de l'école Ludus Académie !
 
 “Talk is cheap, show me the code, the PCB, whatever”.
 
@@ -16,6 +15,8 @@ Le but est de produire quelque chose de fonctionnel à la fin de la soirée, de 
 
 Les règles sont simples : partager avec les autres, montrer ce que vous faites et faire preuve d’ouverture d’esprit !
 
-Rendez-vous le 27 janvier à 19h (lieu annoncé prochainement)
+Rendez-vous le 27 janvier à 19h (44 Avenue de la Forêt-Noire)
 
 Collation offerte par Alsace Digitale, n'hésitez pas à ramener aussi quelque chose
+
+Indiquez votre présence à vos amis grâce l'[événement Facebook](https://www.facebook.com/events/609678889222192/)
