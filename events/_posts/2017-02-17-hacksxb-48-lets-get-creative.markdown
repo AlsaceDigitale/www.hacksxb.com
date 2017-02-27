@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HackSXB #48: Let's get creative!"
-date: '2017-02-17 14:00:48 +0200'
+date: '2017-02-17 13:00:48 +0200'
 event_date: '2017-02-24 19:00:00 +0200'
 photo: event-hacksxb48.jpg
 event_info: Le vendredi 24 février à 19h à La Plage Rivétoile
