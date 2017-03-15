@@ -9,13 +9,27 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.2.1"
+gem 'jekyll', '3.2.1'
+gem 'jekyll-sass-converter', '1.3.0'
+gem 'kramdown', '1.11.1'
+gem 'liquid', '3.0.6'
+gem 'rouge', '1.11.1'
+gem 'github-pages-health-check', '1.2.0'
+gem 'jemoji', '0.7.0'
+gem 'jekyll-mentions', '1.2.0'
+gem 'jekyll-redirect-from', '0.11.0'
+gem 'jekyll-sitemap', '0.11.0'
+gem 'jekyll-feed', '0.7.2'
+gem 'jekyll-gist', '1.4.0'
+gem 'jekyll-paginate', '1.1.0'
+gem 'jekyll-coffeescript', '1.0.1'
+gem 'jekyll-seo-tag', '2.0.0'
+gem 'jekyll-github-metadata', '2.2.0'
+gem 'listen', '3.0.6'
+gem 'activesupport', '4.2.7'
+gem 'minima', '1.2.0'
+gem 'jekyll-swiss', '0.4.0'
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima"
-
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
 
 gem 'github-pages', group: :jekyll_plugins
 
