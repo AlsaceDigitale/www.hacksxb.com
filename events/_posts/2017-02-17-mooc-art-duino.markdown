@@ -11,7 +11,7 @@ Du **23 février au 7 avril 2017**, la communauté HackSXB se joint au mouvement
 
 L'école de l’image Gobelins propose un mooc intitulé « Art-duino : fabriquer des objets connectés créatifs », qui s’étalera sur la période du 23 février au 7 avril. Le but est d'acquérir les bases de la **programmation sur Arduino pour réaliser un objet connecté** telle une station météo.
 
-Vous êtes intéressés par ce cours en ligne mais vous n'avez pas le matériel nécessaire ou préférez avancer à plusieurs ? Venez les 2, 16 et 30 mars à 19h à [La Plage Rivétoile, espace de coworking à Strasbourg](http://www.laplagedigitale.eu), pour apprendre, imaginer et **créer ensemble dans une ambiance conviviale et collaborative**.
+Vous êtes intéressés par ce cours en ligne mais vous n'avez pas le matériel nécessaire ou préférez avancer à plusieurs ? Venez les 2, 16 et 31 mars à 19h à [La Plage Rivétoile, espace de coworking à Strasbourg](http://www.laplagedigitale.eu), pour apprendre, imaginer et **créer ensemble dans une ambiance conviviale et collaborative**.
 
 L'association Alsace Digitale peut vous **prêter tout le matériel nécessaire** si vous en avez besoin. Rejoignez le mouvement, vous pourrez échanger via [le groupe Facebook](http://join.hacksxb.com) et vous retrouvez à 3 reprises pour faire le point **en présence de coachs** compétents dans le domaine.
 
@@ -19,7 +19,7 @@ Les dates de ces **3 réunions** :
 
 * Jeudi 2 mars à 19h
 * Jeudi 16 mars à 19h
-* Jeudi 30 mars à 19h
+* Vendredi 31 mars à 19h (pendant le HackSXB)
 
 Lieu : La Plage Rivétoile (15 avenue du Rhin)
 
