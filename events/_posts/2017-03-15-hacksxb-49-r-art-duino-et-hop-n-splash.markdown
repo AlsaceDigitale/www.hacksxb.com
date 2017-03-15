@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HackSXB #49 - R, Art-duino et Hop'n'Splash"
+title: "HackSXB #49 : R, Art-duino et Hop'n'Splash"
 date: '2017-03-15 18:49:48 +0200'
 event_date: '2017-03-31 19:00:00 +0200'
 photo: event-hacksxb49.jpg
