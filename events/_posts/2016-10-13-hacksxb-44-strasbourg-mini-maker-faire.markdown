@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HackSXB #44 - Mini Maker Faire Strasbourg'
+title: 'HackSXB #44 : Mini Maker Faire Strasbourg'
 date: '2016-10-13 13:34:48 +0200'
 photo: event-hacksxb44.jpg
 event_date: '2016-10-28 19:00:00 +0200'

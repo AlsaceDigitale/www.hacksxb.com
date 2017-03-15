@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HackSXB #43 - Soirée Kézako Arduino au Graffalgar'
+title: 'HackSXB #43 : Soirée Kézako Arduino au Graffalgar'
 date: '2016-08-09 09:22:48 +0200'
 photo: event-hacksxb43.jpg
 event_date: '2016-09-30 19:00:00 +0200'

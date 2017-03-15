@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HackSXB #46 - Bredele party + speed prez GGJ'
+title: 'HackSXB #46 : Bredele party + speed prez GGJ'
 date: '2016-12-01 15:36:48 +0200'
 photo: event-hacksxb46.jpg
 event_date: '2016-12-16 19:00:00 +0200'

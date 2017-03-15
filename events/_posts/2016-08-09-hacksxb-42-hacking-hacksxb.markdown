@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HackSXB #42 - Hacking HackSXB!'
+title: 'HackSXB #42: Hacking HackSXB!'
 date: '2016-08-09 09:22:48 +0200'
 event_date: '2016-08-26 19:00:00 +0200'
 event_info: Le vendredi 26 août à 19h à la Plage Rivétoile

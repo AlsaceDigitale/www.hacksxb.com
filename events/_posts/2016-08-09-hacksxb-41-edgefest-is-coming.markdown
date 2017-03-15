@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HackSXB #41 - EdgeFest is coming!"
+title:  "HackSXB #41: EdgeFest is coming!"
 date:   2016-08-09 09:22:48 +0200
 event_date:   2016-06-24 19:00:00 +0200
 event_info: "Le vendredi 24 juin à 19h à la Plage du Shadok"
