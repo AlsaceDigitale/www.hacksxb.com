@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "EdgeFest 2015 : Straliens Millenium"
+title:  "EdgeFest 2015 - Straliens Millenium"
 date:   2016-08-09 09:22:48 +0200
 photo: projet-straliensmillenium.jpg
-description: "Un jeu grandeur nature dans tout Strasbourg a vu le jour pour le festival EdgeFest de 2015. Les joueurs étaient divisés en deux équipes : les extraterrestres et les terriens..."
+description: "Un jeu grandeur nature dans tout Strasbourg a vu le jour pour le festival EdgeFest de 2015. Les joueurs étaient divisés en deux équipes les extraterrestres et les terriens..."
 ---
 Un jeu grandeur nature dans tout Strasbourg a vu le jour pour le festival EdgeFest de 2015. Les joueurs étaient divisés en deux équipes : les extraterrestres et les terriens...
 

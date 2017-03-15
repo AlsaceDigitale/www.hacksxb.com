@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HackSXB #45: Winter is coming!'
+title: 'HackSXB #45 - Winter is coming!'
 date: '2016-11-03 13:59:48 +0200'
 photo: event-hacksxb45.jpg
 event_date: '2016-11-25 19:00:00 +0200'
