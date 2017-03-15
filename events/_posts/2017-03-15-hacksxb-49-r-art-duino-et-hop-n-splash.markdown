@@ -3,7 +3,7 @@ layout: post
 title: "HackSXB #49 : R, Art-duino et Hop'n'Splash"
 date: '2017-03-15 18:49:48 +0200'
 event_date: '2017-03-31 19:00:00 +0200'
-photo: event-hacksxb48.jpg
+photo: event-hacksxb49.jpg
 event_info: Le vendredi 31 mars à 19h à La Plage Rivétoile
 event_registration: 'https://www.helloasso.com/associations/alsace-digitale/evenements/hacksxb-49-r-art-duino-et-hop-n-splash'
 ---
