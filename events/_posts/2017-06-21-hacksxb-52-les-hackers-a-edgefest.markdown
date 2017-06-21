@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HackSXB #52 : Les hackers s'invitent à EdgeFest !'
+title: 'HackSXB #52 : Les hackers s'invitent à EdgeFest ! '
 date: '2017-06-21 13:29:48 +0200'
 event_date: '2017-06-30 19:00:00 +0200'
 photo: event-hacksxb52.jpg
