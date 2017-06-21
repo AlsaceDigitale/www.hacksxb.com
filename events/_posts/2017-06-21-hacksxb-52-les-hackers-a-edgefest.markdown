@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HackSXB #52 : Les hackers s'invitent à EdgeFest !'
-date: '2017-06-21 15:15:48 +0200'
+date: '2017-06-21 13:29:48 +0200'
 event_date: '2017-06-30 19:00:00 +0200'
 photo: event-hacksxb52.jpg
 event_info: Le vendredi 30 juin à 19h à La Plage Digitale
