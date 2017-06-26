@@ -11,7 +11,7 @@ Ce HackSXB tombe pile-poil pendant le <a href="http://www.edgefest.fr/" target="
 
 Les développeurs et makers curieux ont rendez-vous à La Plage Digitale le vendredi 30 juin à 19h pour une soirée HackSXB sous le signe de l'été ! Pas le temps de niaiser par contre, il faut hacker ! 
 
-💡 Pour pimenter ce rendez-vous HackSXB spécial Edgefest, rien de tel qu'un petit challenge. Alors à vos arduinos, diodes, cartons et autres bouts de ficelle, celui qui réalisera, le temps de cette soirée, le truc le plus fun qui clignote se verra remettre le prix spécial du jury. 
+**💡 Pour pimenter ce rendez-vous HackSXB spécial Edgefest, rien de tel qu'un petit challenge. Alors à vos arduinos, diodes, cartons et autres bouts de ficelle, celui qui réalisera, le temps de cette soirée, le truc le plus fun qui clignote se verra remettre le prix spécial du jury. **
 
 “Talk is cheap, show me the code, the PCB, whatever”.
 
