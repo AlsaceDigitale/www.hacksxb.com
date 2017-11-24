@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meetup HackSXB #56 : Mettre en relation idées et compétences'
+title: 'Meetup HackSXB #56 : Illuminez vos idées !'
 date: '2017-11-24 11:42:00 +0200'
 photo: event-hacksxb56.jpg
 event_date: '2017-12-1 19:00:00 +0200'
