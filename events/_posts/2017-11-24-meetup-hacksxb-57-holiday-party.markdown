@@ -15,7 +15,7 @@ Le but est de produire quelque chose de fonctionnel à la fin de la soirée, de 
 
 Les règles sont simples : partager avec les autres, montrer ce que vous faites et faire preuve d’ouverture d’esprit !
 
-Rendez-vous le vendredi 1 décembre à 19h à La Plage Digitale (15 avenue du Rhin, 67100 Strasbourg)
+Rendez-vous le vendredi 22 décembre à 19h à La Plage Digitale (15 avenue du Rhin, 67100 Strasbourg)
 
 Alsace Digitale sponsorise le repas, n'hésitez pas à amenez quelque chose à boire / grignoter. 
 
