@@ -7,7 +7,7 @@ event_date: '2018-03-30 19:00:00 +0200'
 event_info: Le vendredi 30 mars à 19h à La Plage Digitale
 event_registration: 'https://www.meetup.com/HackSXB/events/248434320/'
 ---
-**Lancement du projet de jeu en vue du festival EdgeFest de cet été, avec de l'IA dedans !** Toutes les infos sur le projet : https://docs.google.com/document/d/17gB_KOfVwrJ4ZcE21_CJ8xJrbcHFkwg00LygaWTT30A
+**Lancement du projet de jeu en vue du festival EdgeFest de cet été, avec de l'IA dedans !** Toutes les infos sur le projet [sur ce document](https://docs.google.com/document/d/17gB_KOfVwrJ4ZcE21_CJ8xJrbcHFkwg00LygaWTT30A)
 
 “Talk is cheap, show me the code, the PCB, whatever”.
 
