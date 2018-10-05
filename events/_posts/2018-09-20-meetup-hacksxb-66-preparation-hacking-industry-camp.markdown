@@ -2,7 +2,7 @@
 layout: post
 title: "Meetup HackSXB #66 : Préparez-vous au Hacking Industry Camp !"
 photo: event-hacksxb66.jpg
-date: '2018-09-20 14:52:00 +0200'
+date: '2018-09-18 14:52:00 +0200'
 event_date: '2018-09-28 19:00:00 +0200'
 event_info: Le vendredi 28 septembre à 19h à La Plage Digitale
 event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/254850493/'

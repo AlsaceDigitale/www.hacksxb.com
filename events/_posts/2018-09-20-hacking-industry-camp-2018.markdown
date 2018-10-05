@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hacking Industry Camp 2018'
-date: '2018-09-18 15:08:48 +0200'
+date: '2018-09-20 15:08:48 +0200'
 photo: hic2018.jpg
 event_date: '2018-10-12 17:00:00 +0200'
 event_info: Du 12 au 14 octobre à l'INSA Strasbourg
