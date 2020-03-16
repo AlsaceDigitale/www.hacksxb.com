@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Meetup HackSXB #82"
+title: "Meetup HackSXB #82 [ANNULE]"
 date: '2020-03-12 10:00:00 +0200'
 event_date: '2020-03-27 19:00:00 +0200'
 event_info: Le vendredi 27 mars à 19h à La Plage Digitale
 event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/269354566/'
 ---
+
+Mise à jour du 16/03 :
+Comme vous vous en doutez suite aux dernières mesures de confinement, le HackSXB ne pourra pas avoir lieu le 27 mars.
+Mais ce n'est que partie remise, on le replanifiera dès que la situation sera meilleure et que ce sera sans risque pour tout le monde :-)
+
+--
 
 “Talk is cheap, show me the code, the PCB, whatever”.
 
