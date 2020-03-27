@@ -10,6 +10,13 @@ event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/269605307/'
 Mise à jour du 23/03 :
 -- EDITION SPECIALE -- VISIO CONFÉRENCE --
 
+Rendez-vous à 19H sur le tout nouveau serveur Discord du HackSXB !
+
+Pour pouvoir utiliser votre webcam et voir les présentations, il faudra installer l'appli et non pas utiliser le web ou le téléphone (sinon vous n'aurez que l'audio) : https://discordapp.com/download
+Le lien pour accéder au serveur : https://discord.gg/wZV2ZSm
+
+A 19H, rendez-vous dans le salon vocal "Général" !
+
 Le concept reste le même : bidouiller ensemble sur votre projet favori. Mais vu le contexte, quelques adaptations sont nécéssaires.
 
 Tout d'abord l'évènement se déroulera en visio. On est encore en train de voir les détails.
@@ -19,8 +26,6 @@ Ensuite on passera un peu plus de temps à prendre les nouvelles de chacun, à v
 Puis il y aura quelques présentations un peu plus structurées sur des projets.
 
 Et bien sûr ensuite on va bosser chacun sur nos projets !
-
-Rendez-vous le vendredi 27 mars à 19h.
 
 --
 
