@@ -9,7 +9,7 @@ event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/270890774/'
 
 On continue avec le HackSXB sur Discord !
 
-Rendez-vous à 19H le 29/05 sur le serveur Discord du HackSXB : https://discord.gg/wZV2ZSm
+Rendez-vous à 19H le 29/05 sur le [serveur Discord du HackSXB] (https://discord.gg/wZV2ZSm)
 
 Comme les dernières fois, de petites présentations sur des sujets précis auront lieu !
 
