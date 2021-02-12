@@ -9,7 +9,7 @@ event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/271329579/'
 
 Dernier HackSXB avant l'été, en espérant pouvoir tous se revoir en vrai à la rentrée !
 
-Rendez-vous à 19H le 26/06 sur le serveur Discord du HackSXB : https://discord.gg/wZV2ZSm
+Rendez-vous à 19H le 26/06 sur le serveur Discord du HackSXB : https://discord.gg/AzM9GyukZB
 
 Si vous avez un sujet dont vous avez envie de parler, n'hésitez pas à vous manifester !
 

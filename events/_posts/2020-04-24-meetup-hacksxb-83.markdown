@@ -9,7 +9,7 @@ event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/270139045/'
 
 On continue avec le HackSXB sur Discord !
 
-Rendez-vous à 19H le 24/04 sur le serveur Discord du HackSXB : https://discord.gg/wZV2ZSm
+Rendez-vous à 19H le 24/04 sur le serveur Discord du HackSXB : https://discord.gg/AzM9GyukZB
 
 “Talk is cheap, show me the code, the PCB, whatever”.
 

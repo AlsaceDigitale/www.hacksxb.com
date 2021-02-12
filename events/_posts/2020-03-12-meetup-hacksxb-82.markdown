@@ -13,7 +13,7 @@ Mise à jour du 23/03 :
 Rendez-vous à 19H sur le tout nouveau serveur Discord du HackSXB !
 
 Pour pouvoir utiliser votre webcam et voir les présentations, il faudra installer l'appli et non pas utiliser le web ou le téléphone (sinon vous n'aurez que l'audio) : https://discordapp.com/download
-Le lien pour accéder au serveur : https://discord.gg/wZV2ZSm
+Le lien pour accéder au serveur : https://discord.gg/AzM9GyukZB
 
 A 19H, rendez-vous dans le salon vocal "Général" !
 
