@@ -23,3 +23,9 @@ Mise à jour en temps réel
 Construction des fichiers statiques
 
     bundle exec jekyll build
+
+## Utiliser exactement la même version de Ruby
+
+Utiliser `rbenv``
+
+Combiné avec `bundler` ça donne `rbenv exec bundle exec jekyll serve`
