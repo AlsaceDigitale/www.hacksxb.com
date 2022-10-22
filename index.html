@@ -22,8 +22,15 @@ description: "Le HackSXB est une communauté particulièrement active qui mobili
       {% for post in site.categories.events limit:2 %}
       <p class="sidebar-calendar-event"><a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}"><strong>{{ post.title }}</strong></a></p>
       <p class="sidebar-calendar-info"><i class="fa fa-clock-o"> &nbsp;</i>{{ post.event_info }}</p>
+        {% if post.event_location && post.event_location != "" %}
+        <p class="sidebar-calendar-info"><i class="fa fa-map-marker"> &nbsp;</i>{{ post.event_location }}</p>
+        {% endif %}
       <div class="row" style="padding-bottom: 25px;">
+        {% if post.event_registration && post.event_registration != "" %}
         <div class="col-xs-6 nopadding">
+        {%else%}
+        <div class="col-xs-12 nopadding">
+        {%endif%}
           <a href="{{ post.url | prepend: site.url }}" class="btn btn-default sidebar-calendar-button-left">+ d'infos</a>
         </div>
         {% if post.event_registration && post.event_registration != "" %}
