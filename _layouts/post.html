@@ -2,7 +2,11 @@
 layout: default
 ---
 {% if page.categories[0] == "events" %}
-  {% assign post_meta = page.event_info %}
+  {% if page.event_location %}
+    {% capture post_meta %} {{page.event_info}} / {{page.event_location}}{% endcapture %}
+  {%else%}
+    {% assign post_meta = page.event_info %}
+  {% endif %}
   {% assign share_text = "Partager l'événement" %}
 {% elsif page.categories[0] == "ressources" %}
   {% assign post_meta = "Proposée par " | append: page.ressource_author %}  

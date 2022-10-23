@@ -11,7 +11,12 @@ description: "Découvrez les prochains rendez-vous de la communauté de dévelop
     {% for post in site.categories.events %}
     <div class="blog-post">
       <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}"><i class="fa fa-calendar"></i></a> &nbsp;<a href="{{ post.url | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p class="blog-post-meta">{{ post.event_info }}</p>
+      {% if post.event_location %}
+        {% capture event_title %}{{ post.event_info }} / {{ post.event_location }} {% endcapture %}
+      {% else %}
+        {% capture event_title %}{{ post.event_info }}{% endcapture %}
+      {% endif %}
+      <p class="blog-post-meta">{{ event_title }}</p>
       <p>
         {{ post.excerpt }}
       </p>
