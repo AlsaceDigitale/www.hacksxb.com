@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Meetup HackSXB #84 (sur Discord)"
+title: "Meetup HackSXB #84"
 date: '2020-05-26 23:45:00 +0200'
 event_date: '2020-05-29 19:00:00 +0200'
-event_info: Le vendredi 29 mai (sur Discord)
+event_info: Le vendredi 29 mai
 event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/270890774/'
+event_location: Discord
 ---
 
 On continue avec le HackSXB sur Discord !

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Meetup HackSXB #85 (sur Discord)"
+title: "Meetup HackSXB #85"
 date: '2020-06-16 16:20:00 +0200'
 event_date: '2020-06-26 19:00:00 +0200'
 event_info: Le vendredi 26 juin (sur Discord)
 event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/271329579/'
+event_location: Discord
 ---
 
 Dernier HackSXB avant l'été, en espérant pouvoir tous se revoir en vrai à la rentrée !

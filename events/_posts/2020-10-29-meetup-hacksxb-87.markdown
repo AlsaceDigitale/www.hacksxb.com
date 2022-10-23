@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Meetup HackSXB #87 (sur Discord)"
+title: "Meetup HackSXB #87"
 date: '2020-10-29 09:41:00 +0200'
 event_date: '2020-10-30 19:00:00 +0200'
 event_info: Le vendredi 30 octobre (sur Discord)
 event_registration: 'https://www.meetup.com/fr-FR/HackSXB/events/274251454/'
+event_location: Discord
 ---
 
 Allez on ne se laisse pas décourager, bidouillons toutes et tous en coeur... et en ligne !

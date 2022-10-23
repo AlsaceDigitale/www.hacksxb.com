@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Meetup HackSXB #107 (chez Fabeon)"
+title: "Meetup HackSXB #107"
 date: '2022-10-21 16:49:00 +0200'
 event_location: Fabeon, 80 rue Tobias Stimmer, Illkirch
 event_date: '2022-10-28 19:00:00 +0200'
-event_info: Le vendredi 28 octobre (chez Fabeon)
+event_info: Le vendredi 28 octobre
 event_registration: https://www.facebook.com/events/802610604314506
 ---
 
