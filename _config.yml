@@ -23,6 +23,8 @@ url: "http://hacksxb.com" # production
 twitter_username: hacksxb
 github_username:  alsacedigitale
 
+repository: AlsaceDigitale/www.hacksxb.org
+
 # Build settings
 markdown: kramdown
 
