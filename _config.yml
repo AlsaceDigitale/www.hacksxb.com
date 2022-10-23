@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   HackSXB, la communauté de développeurs et makers à Strasbourg portée par Alsace Digitale
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://localhost:4000" # dev
-url: "http://hacksxb.com" # production
+url: "https://hacksxb.com" # production
 twitter_username: hacksxb
 github_username:  alsacedigitale
 
