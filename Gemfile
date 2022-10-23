@@ -24,11 +24,11 @@ gem 'jekyll-gist', '1.4.0'
 gem 'jekyll-paginate', '1.1.0'
 gem 'jekyll-coffeescript', '1.0.1'
 gem 'jekyll-seo-tag', '2.0.0'
-gem 'jekyll-github-metadata', '2.2.0'
 gem 'listen', '3.0.6'
 gem 'activesupport', '4.2.7'
 gem 'minima', '1.2.0'
 gem 'jekyll-swiss', '0.4.0'
+gem 'json', '1.8.6'
 
 
 gem 'github-pages', group: :jekyll_plugins
@@ -39,5 +39,5 @@ gem 'github-pages', group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-#   gem "jekyll-github-metadata", "~> 1.0"
+    gem 'jekyll-github-metadata', '2.2.0'
 end

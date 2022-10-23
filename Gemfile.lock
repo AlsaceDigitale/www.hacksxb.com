@@ -160,6 +160,7 @@ DEPENDENCIES
   jekyll-sitemap (= 0.11.0)
   jekyll-swiss (= 0.4.0)
   jemoji (= 0.7.0)
+  json (= 1.8.6)
   kramdown (= 1.11.1)
   liquid (= 3.0.6)
   listen (= 3.0.6)
@@ -170,4 +171,4 @@ RUBY VERSION
    ruby 2.7.2p137
 
 BUNDLED WITH
-   2.2.33
+   2.1.4
