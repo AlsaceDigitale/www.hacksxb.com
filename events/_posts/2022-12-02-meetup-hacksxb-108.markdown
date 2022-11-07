@@ -5,16 +5,27 @@ date: '2022-11-07 21:00:00 +0200'
 event_date: '2022-12-02 19:00:00 +0200'
 event_info: Le vendredi 02 décembre
 event_location: La Plage Digitale
+event_registration: https://fb.me/e/348ZxDyRL
 ---
 
-Attention, exceptionnelement début décembre ! Le HIC nous occupe la semaine précédente :)
+**Exceptionnellement début décembre ! Le HIC nous occupe la semaine précédente 😀**
 
-Allez on ne se laisse pas décourager, bidouillons toutes et tous en coeur... et en ligne !
+*Attention: Entrée par la rue de Genève, en face du numéro 23*
 
-Rendez-vous sur notre serveur Discord : https://discord.com/invite/3zKxVZG
+**HackSXB** est une soirée axée sur vos projets du moment, où on parle bidouille, hacking, projets du futur.
 
-Le concept ne change pas ! Une communauté d'échange, d'entraide, de partage, autour de la création au sens large, avec préférence pour les projets ayant une composante numérique (code, électronique, objets connectés...) mais pas que...
+Vous pouvez au choix :
 
-Du moment que vous avez une passion à partager et que vous êtes prêt(e) à écouter les autres, la porte est grande ouverte !
+- partager vos connaissances
 
-Indiquez votre présence à vos amis grâce l'[événement Facebook](https://www.facebook.com/events/778750586116488)
+- travailler sur un projet qui vous tient à coeur
+
+- demander de l'aide
+
+Tout le monde est le/la bienvenu(e), sans distinction de genre ou d'orientation de système d'exploitation.
+
+Une petite collation est prévue mais toute contribution à manger/boire est la bienvenue !
+
+Merci de vous inscrire pour nous permettre de prévoir les quantités. 🍕
+
+Rendez-vous sur notre serveur Discord : [https://discord.com/invite/3zKxVZG](https://discord.com/invite/3zKxVZG)
