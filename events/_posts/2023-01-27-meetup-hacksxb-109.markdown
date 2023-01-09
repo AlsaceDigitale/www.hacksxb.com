@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Meetup HackSXB #108"
-date: '2022-11-07 21:00:00 +0200'
-event_date: '2022-12-02 19:00:00 +0200'
-event_info: Le vendredi 02 décembre
+title: "Meetup HackSXB #109"
+date: '2023-01-09 21:00:00 +0200'
+event_date: '2023-01-27 19:00:00 +0200'
+event_info: Le vendredi 27 janvier
 event_location: La Plage Digitale
 event_registration: https://fb.me/e/348ZxDyRL
 ---
